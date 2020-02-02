@@ -1,5 +1,5 @@
-[submodule "magma"]
-	path = magma
+[submodule "3pp/magma"]
+	path = 3pp/magma
 	url = https://github.com/astro7x/magma
 	branch = master
 [submodule "3pp/colte"]
