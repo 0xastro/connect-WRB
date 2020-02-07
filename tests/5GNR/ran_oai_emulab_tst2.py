@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-5G-NR OAI RAN Scenario: gNodeB and UE
+5G-NR OAI RAN Scenario: gNodeB and UE with 2USRPX310
 """
 
 import geni.portal as portal
